@@ -1,6 +1,6 @@
 # 📝 To-Do List 
 
-A simple, aesthetic, and beginner-friendly To-Do List app built using **HTML**, **CSS**, and **JavaScript**.  
+A simple, aesthetic, and beginner-friendly To-Do List app built using **HTML**. 
 Designed with soft, classy colors and a minimal interface to help you keep track of your daily tasks.
 
 ---
